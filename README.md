@@ -23,9 +23,9 @@ I’m a passionate learner who loves exploring new things and continuously growi
 ---
 
 #### 📫 Contact Me
-- **Email:** [souvikpaul414@gmail.com]  
-- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- **GitHub:** [github.com/Souvik-Paul05](https://github.com/Souvik-Paul05)
+- **Email:** *souvikpaul414@gmail.com*  
+- **LinkedIn:** [Souvik Paul](https://www.linkedin.com/in/souvik-paul-0335ab28b)  
+- **ORCID iD:** [0009-0005-9557-2662](https://orcid.org/0009-0005-9557-2662)
 
 ---
 
